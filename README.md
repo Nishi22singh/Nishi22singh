@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @Nishi22singh
-- 👀 I’m interested in Python,html.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on Google
-- 📫 Contact me on linked:www.linkedin.com/in/nishi-singh-
 
     <h3 align="center">
-   Radhe Radhe 🦚! 
+   Radhe Radhe 🦚🌸! 
   <h3>
 <h2 align="center">
  
