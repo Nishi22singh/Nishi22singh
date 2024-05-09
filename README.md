@@ -4,6 +4,16 @@
 - 💞️ I’m looking to collaborate on Google
 - 📫 Contact me on linked:www.linkedin.com/in/nishi-singh-
 
+    <h3 align="center">
+   Namaste🙏! 
+  <h3>
+<h2 align="center">
+ 
+  I'm  NISHI SINGH!! </h2>
+  <div align="center">
+  
+  <img width="200" height="200"  src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
+</div>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishi22singh&" alt="Nishi22singh" /></p>
 Here are some [🦜 parrots]
 
