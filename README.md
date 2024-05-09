@@ -7,7 +7,7 @@
   I'm  NISHI SINGH!! </h2>
   <div align="center">
   
-  <img width="200" height="200"  src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
+  <img width="200" height="200"  src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif">
 </div>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishi22singh&" alt="Nishi22singh" /></p>
 Here are some [🦜 parrots]
