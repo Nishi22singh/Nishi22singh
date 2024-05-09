@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Google
 - 📫 Contact me on linked:www.linkedin.com/in/nishi-singh-
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shriyasnhagarwl&" alt="shriyasnhagarwl" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishi22singh&" alt="Nishi22singh" /></p>
 Here are some [🦜 parrots]
 
 <div>
