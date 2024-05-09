@@ -5,7 +5,7 @@
 - 📫 Contact me on linked:www.linkedin.com/in/nishi-singh-
 
     <h3 align="center">
-   Namaste🙏! 
+   Radhe Radhe 🦚! 
   <h3>
 <h2 align="center">
  
