@@ -4,8 +4,9 @@
   <h1>
 <h2 align="center">
  
-  I'm  Nishi Singh <img width="200" height="200"  src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif"></h2>
-   <img width="200" height="200"  src="https://media0.giphy.com/media/WzS57lvFkna7daEePb/giphy.gif?cid=6c09b952rnibs4g75c5x6r6fkafkm041xny0eu5vzk76mdlp&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+  I'm  Nishi Singh  <img width="200" height="200"  src="https://media0.giphy.com/media/WzS57lvFkna7daEePb/giphy.gif?cid=6c09b952rnibs4g75c5x6r6fkafkm041xny0eu5vzk76mdlp&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"></h2>
+  
+   <img width="200" height="200"  src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif">
   <div align="center">
   
   
